@@ -1,0 +1,29 @@
+div{
+    border: solid black 2px;
+
+}
+
+.main{
+
+}
+
+.topp{
+    padding: 0 0 0 10;
+}
+
+.nav li{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-size: 20;
+    padding: 10px;
+}
+
+
+.innhold{
+    padding: 0 0 0 10;
+}
+
+.footer{
+    padding: 20 20 50 10;
+}
